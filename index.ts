@@ -51,3 +51,7 @@ interface IBird {
     beak: boolean
     color?: string
     feathers: number
+
+
+
+    
